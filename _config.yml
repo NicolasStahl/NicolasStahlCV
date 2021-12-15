@@ -1,13 +1,11 @@
-title: Leaf Blog
-iconURL: assets/default-icon.png
+title: Nicolas Stahl
+iconURL: assets/images_icon.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
 
-social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+
 
 plugins:
  - jekyll-feed
